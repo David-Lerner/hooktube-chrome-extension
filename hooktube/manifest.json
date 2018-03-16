@@ -8,14 +8,16 @@
   "permissions": [
     "activeTab"
   ],
-  "icons": { 
-    "16":"hooktube_icon16.png", 
-    "48":"hooktube_icon48.png", 
-    "128":"hooktube_icon128.png" 
-  }, 
+  "icons": {
+    "16":"hooktube_icon16.png",
+    "48":"hooktube_icon48.png",
+    "128":"hooktube_icon128.png"
+  },
   "browser_action": {
       "default_title": "YouTube to HookTube",
       "default_icon": "hooktube_icon128.png"
+  },
+  "commands":{
   },
   "manifest_version": 2
 }
